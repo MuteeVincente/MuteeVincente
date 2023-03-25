@@ -36,5 +36,7 @@ Feel free to connect with me on social media or via email:
 
 [![PayPal](https://img.shields.io/badge/Donate-%2300457C.svg?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/vinniemutee@gmail.com)
 
+ ## Acount: vinniemutee@gmail.com
+ 
 ## Thanks for stopping by! 😄
 # Vincent-Mutethia
