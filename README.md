@@ -39,4 +39,3 @@ Feel free to connect with me on social media or via email:
  ## Paypal account: vinniemutee@gmail.com
 
 ## Thanks for stopping by! 😄
-# Vincent-Mutethia
