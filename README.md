@@ -4,7 +4,7 @@ I'm a **Computer Science** Student now going to the 3rd year in **Jomo Kenyatta 
 
 ## **Tech Stack**
 
-Here are some of the technologies and frameworks I'm proficient in:
+Here are some of the technologies and frameworks I am proficient in:
 
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
 
