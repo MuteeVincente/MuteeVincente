@@ -24,7 +24,7 @@ In addition to my technical skills, I have excellent problem-solving skills and 
 
 ## **Contact Me**
 
-Feel free to connect with me on social media or via email:
+Feel free to connect with me on social media or via 
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MuteeVincente)
 
