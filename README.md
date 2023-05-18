@@ -31,6 +31,16 @@
 
 <a href="http://www.github.com/MuteeVincente"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuteeVincente&stroke=ffffff&background=1c1917&ring=2ecc71&fire=2ecc71&currStreakNum=ffffff&currStreakLabel=2ecc71&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="https://github.com/MuteeVincente">
+    <img align="center" 
+         height="175px"  
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MuteeVincente&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=00FF00&icon_color=7ED957" 
+         height="192px" 
+         width="70%"/>
+</a>
+<a href="https://github.com/MuteeVincente">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuteeVincente&theme=radical&" alt="MuteeVincente"/>
+</a>
 
 
 <br>
