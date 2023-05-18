@@ -34,6 +34,6 @@ In addition to my technical skills, I have excellent problem-solving skills and 
 
 [![PayPal](https://img.shields.io/badge/Donate-%2300457C.svg?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/vinniemutee@gmail.com)
 
- ## Paypal account: vinniemutee@gmail
+ ## Paypal account: vinniemutee@gmai
 
 ## Thanks for stopping by! 😄
