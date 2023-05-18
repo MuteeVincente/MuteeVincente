@@ -1,20 +1,4 @@
 
-<style>
-    @keyframes wave {
-      0% { transform: rotate(0deg); }
-      25% { transform: rotate(30deg); }
-      50% { transform: rotate(0deg); }
-      75% { transform: rotate(-30deg); }
-      100% { transform: rotate(0deg); }
-    }
-
-    .hand {
-      display: inline-block;
-      font-size: 2rem;
-      animation: wave 1s infinite; 
-    }
-  </style>
-</head>
 <body>
   <h1 align="center">Hi!  <span class="hand"> 👋</span><br>  I'm <b>VINCENT MUTETHIA<b></h1>
 
