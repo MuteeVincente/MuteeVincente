@@ -47,7 +47,4 @@
 <br>
 <br>
 
-    ## Achiements:
-    
-    ![Credly Badge](https://www.credly.com/badges/b48977f0-b3ff-411f-8378-c774fe80cceb/public_url)
 ## ***Thanks for stopping by!*** 😉
