@@ -42,8 +42,6 @@
 <a href="https://github.com/MuteeVincente">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuteeVincente&theme=radical&" alt="MuteeVincente"/>
 </a>
-
-
 <br>
 <br>
 ## ***Thanks for stopping by!*** 😉
