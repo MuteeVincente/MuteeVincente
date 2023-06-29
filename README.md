@@ -22,8 +22,6 @@
 [![jQuery](https://img.shields.io/badge/jQuery-%23323330.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E)]()[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)]()
 
 
-
-
 ## **Contact Me**
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MuteeVincente)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vincent-mutethia-b83566226/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:vinniemutee@gmail.com)
