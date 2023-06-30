@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Vincent.;+A+Computer+Science+Student.;JKUAT-UNIVERSITY:KENYA&color=00ff00&bgColor=000000)](https://git.io/typing-svg)
 
-
 ## **Tech Stack**
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
