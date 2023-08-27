@@ -44,3 +44,58 @@
 <br>
 <br>
 ## ***Thanks for stopping by!*** 😉
+
+
+<div align="center">
+  <h1>Hi! <span class="hand">👋</span><br>I'm <b>VINCENT MUTETHIA</b></h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+Vincent.;+A+Computer+Science+Student.;JKUAT-UNIVERSITY:KENYA&color=00ff00&bgColor=000000" alt="Typing SVG"/>
+  </a>
+  <p>Visitor count<br>
+    <img src="https://profile-counter.glitch.me/muteevincente/count.svg" alt="Visitor Count"/>
+  </p>
+</div>
+
+## Tech Stack
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  </a>
+  <!-- Add other tech badges here... -->
+</div>
+
+## Contact Me
+<div align="center">
+  <a href="https://twitter.com/MuteeVincente">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vincent-mutethia-b83566226/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vinniemutee@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="http://www.github.com/MuteeVincente">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuteeVincente&stroke=ffffff&background=1c1917&ring=2ecc71&fire=2ecc71&currStreakNum=ffffff&currStreakLabel=2ecc71&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
+  </a>
+  <a href="https://github.com/MuteeVincente">
+    <img align="center" height="175px" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MuteeVincente&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=00FF00&icon_color=7ED957" alt="Top Languages"/>
+  </a>
+  <a href="https://github.com/MuteeVincente">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuteeVincente&theme=radical&" alt="Profile Summary"/>
+  </a>
+</div>
+
+<div align="center">
+  <p><em>Thanks for stopping by! 😉</em></p>
+</div>
+
