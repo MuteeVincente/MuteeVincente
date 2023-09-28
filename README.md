@@ -1,89 +1,8 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <title>Vincent Mutethia</title>
-  <style>
-    body {
-      background-color: #0D1117;
-      color: white;
-      font-family: sans-serif;
-    }
-
-    h1, h2, h3 {
-      text-align: center;
-    }
-
-    h1 {
-      font-size: 3em;
-    }
-
-    h2 {
-      font-size: 2em;
-    }
-
-    h3 {
-      font-size: 1.5em;
-    }
-
-    p {
-      text-align: justify;
-    }
-
-    img {
-      max-width: 100%;
-    }
-
-    .hand {
-      animation: wave 1s infinite;
-    }
-
-    @keyframes wave {
-      0% {
-        transform: rotate(0deg);
-      }
-      50% {
-        transform: rotate(10deg);
-      }
-      100% {
-        transform: rotate(0deg);
-      }
-    }
-
-    .tech-stack {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-wrap: wrap;
-    }
-
-    .tech-stack img {
-      width: 100px;
-      margin: 10px;
-    }
-
-    .contact-me {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-
-    .contact-me img {
-      width: 50px;
-      margin: 10px;
-    }
-
-    .github-stats {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-wrap: wrap;
-    }
-
-    .github-stats img {
-      width: 200px;
-      margin: 10px;
-    }
-  </style>
 </head>
 
 <body>
@@ -104,4 +23,20 @@
     <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
     <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
     <img src="https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=%23F7DF1E" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Django-%23323330.svg?style=for-the-badge&logo=django&logoColor=%23F7DF1E
+    <img src="https://img.shields.io/badge/Django-%23323330.svg?style=for-the-badge&logo=django&logoColor=%23F7DF1E"
+      alt="Django" />
+    <img src="https://img.shields.io/badge/C-%23323330.svg?style=for-the-badge&logo=c&logoColor=%23F7DF1E" alt="C" />
+    <img src="https://img.shields.io/badge/C++-%23323330.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%23F7DF1E" alt="C++" />
+    <img src="https://img.shields.io/badge/Java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E" alt="Java" />
+    <img src="https://img.shields.io/badge/Bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%23F7DF1E"
+      alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/jQuery-%23323330.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E" alt="jQuery" />
+    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  </div>
+
+  <h2>Contact Me</h2>
+  <div class="contact-me">
+    <a href="https://twitter.com/MuteeVincente">
+      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+    </a>
+    
